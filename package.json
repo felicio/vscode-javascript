@@ -5,7 +5,7 @@
   "displayName": "JavaScript (ES6) code snippets",
   "publisher": "xabikos",
   "icon": "images/javascript.png",
-  "license": "SEE LICENSE IN LICENSE.md",
+  "license": "SEE LICENSE IN LICENSE",
   "repository": {
     "type": "git",
     "url": "https://github.com/xabikos/vscode-javascript"
