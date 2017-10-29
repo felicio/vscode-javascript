@@ -14,8 +14,12 @@
     "vscode": "0.10.x"
   },
   "main": "./extension",
-  "activationEvents": ["*"],
-  "categories": ["Snippets"],
+  "activationEvents": [
+    "*"
+  ],
+  "categories": [
+    "Snippets"
+  ],
   "contributes": {
     "configuration": {
       "title": "JavaScript Snippets",
