@@ -58,8 +58,6 @@
     "postinstall": "node ./node_modules/vscode/bin/install"
   },
   "devDependencies": {
-    "@types/node": "^8.0.47",
-    "typescript": "^2.5.3",
     "vscode": "^1.1.6"
   }
 }
