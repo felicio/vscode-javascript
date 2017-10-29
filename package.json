@@ -45,10 +45,6 @@
       {
         "language": "html",
         "path": "./snippets/snippets.json"
-      },
-      {
-        "language": "vue",
-        "path": "./snippets/snippets.json"
       }
     ]
   }
