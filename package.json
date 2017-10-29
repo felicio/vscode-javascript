@@ -15,7 +15,11 @@
   },
   "main": "./extension",
   "activationEvents": [
-    "*"
+    "onLanguage:javascript",
+    "onLanguage:typescript",
+    "onLanguage:javascriptreact",
+    "onLanguage:typescriptreact",
+    "onLanguage:html"
   ],
   "categories": [
     "Snippets"
