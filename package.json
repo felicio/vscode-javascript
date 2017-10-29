@@ -13,7 +13,7 @@
   "engines": {
     "vscode": "0.10.x"
   },
-  "main": "./extension",
+  "main": "./src/extension",
   "activationEvents": [
     "onLanguage:javascript",
     "onLanguage:typescript",
